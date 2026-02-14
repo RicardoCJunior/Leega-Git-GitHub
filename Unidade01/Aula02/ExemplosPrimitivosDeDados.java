@@ -1,6 +1,7 @@
-package Aula02;
+package Unidade01.Aula02;
+
 public class ExemplosPrimitivosDeDados {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         byte valorByte = 127;
         short valorShort = 32767;
         int valorInt = 2147483647;
@@ -24,6 +25,6 @@ public class ExemplosPrimitivosDeDados {
         System.out.println("Valor char: " + valorChar);
         System.out.println("Valor boolean: " + valorBoolean);
         System.out.println("Valor de PI: " + PI);
-        
+
     }
 }
