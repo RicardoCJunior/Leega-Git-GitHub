@@ -1,4 +1,4 @@
-package Unidade01.Aula07;
+package Aula07;
 
 public class Condicionais {
     public static void main(String[] args) {

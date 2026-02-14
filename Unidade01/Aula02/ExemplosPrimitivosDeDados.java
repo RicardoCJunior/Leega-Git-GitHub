@@ -1,4 +1,4 @@
-package Unidade01.Aula02;
+package Aula02;
 
 public class ExemplosPrimitivosDeDados {
     public static void main(String[] args) {

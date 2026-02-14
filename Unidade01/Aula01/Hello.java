@@ -1,4 +1,4 @@
-package Unidade01.Aula01;
+package Aula01;
 
 public class Hello {
     public static void main(String[] args) {

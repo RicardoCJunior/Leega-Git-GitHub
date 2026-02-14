@@ -1,4 +1,4 @@
-package Unidade01.Aula04;
+package Aula04;
 
 public class Objetos {
     // Atributos

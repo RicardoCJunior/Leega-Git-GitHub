@@ -1,4 +1,4 @@
-package Unidade01.Aula08;
+package Aula08;
 import java.util.Scanner;
 
 public class Pessoa2 {

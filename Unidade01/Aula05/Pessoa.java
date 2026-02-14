@@ -1,4 +1,4 @@
-package Unidade01.Aula05;
+package Aula05;
 
 import java.util.Scanner;
 

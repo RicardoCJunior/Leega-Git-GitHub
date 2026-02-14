@@ -1,4 +1,4 @@
-package Unidade01.Aula06;
+package Aula06;
 
 public class Lacos {
     public static void main(String[] args) {
